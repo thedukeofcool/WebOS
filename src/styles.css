@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+
+body {
+  color: white;
+  background-color: black;
+  font-family: "Roboto Mono", monospace;
+}
+::selection {
+  background-color: white;
+  color: black;
+}
+
+::-moz-selection {
+  background-color: white;
+  color: black;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: black;
+}
+
+::-webkit-scrollbar-thumb {
+  background: slategray;
+  border-radius: 16px;
+  width: 8px;
+  opacity: 0.5;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: darkslategray;
+  border-radius: 16px;
+  width: 8px;
+}
+
+/* @keyframes blink-caret {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: orange;
+  }
+} */

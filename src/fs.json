@@ -1,0 +1,15 @@
+{
+  "\\": {
+    "files": {
+      "test.txt": "\\fs\\test.txt"
+    },
+    "folders": {
+      "test": {
+        "files": {
+          "othertest.txt": "\\fs\\test\\othertest.txt"
+        },
+        "folders": {}
+      }
+    }
+  }
+}
