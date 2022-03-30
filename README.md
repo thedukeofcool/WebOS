@@ -1,4 +1,4 @@
-# WebOS
+# WebOS (OLD VERSION, go to v1 branch to see code)
 Just a little OS I made in HTML, CSS, and JavaScript.
 ## Commands
 ```kernel``` - kernel tests
